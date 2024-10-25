@@ -1,6 +1,5 @@
-import org.pokedex.JSONObject;
+import pokedex.json.simple.JSONArray;
+import pokedex.json.simple.JSONObject;
+import pokedex.json.simple.parser.*;
 
-public class pokemon{
-	public static void main(string[] args) {
-	}
-}
+public class
